@@ -5,9 +5,9 @@ Con este proyecto se aplican conocimientos tales como: creación y uso de listas
 🚀 *Este challenge forma parte del programa de formación **One Oracle**.*  
 
 <h2>📌 Características </h2>
-<p>✅ Agregar nombres a una lista.
+✅ Agregar nombres a una lista.
 ✅ Mostrar la lista de amigos agregados.
-✅ Seleccionar un amigo al azar mediante un sorteo.</p>
+✅ Seleccionar un amigo al azar mediante un sorteo.
 
 <h3>🚀 Instalación y Uso </h3>
 <p>Clona este repositorio o descarga los archivos.
