@@ -1,4 +1,5 @@
-<h1> Hola!!!! Mi nombre es Arturo y aquí está mi Proyecto del Amigo Secreto!!!!</h1>
+<h1> Hola!!!! 
+  Mi nombre es Arturo y aquí está mi Proyecto del Amigo Secreto!!!!</h1>
 
 Este es un pequeño proyecto en JavaScript que permite agregar nombres de amigos a una lista y posteriormente realizar un sorteo para seleccionar un amigo de manera aleatoria.
 Con este proyecto se aplican conocimientos tales como: creación y uso de listas, selección aleatoria, recursividad de funciones, vinculación entre los archivos de JS y HTML, entre otros
