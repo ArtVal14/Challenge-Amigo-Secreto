@@ -23,9 +23,9 @@ mostrarAmigos(): Muestra la lista de amigos en pantalla.
 sortearAmigo(): Elige un amigo al azar de la lista y limpia la pantalla después del sorteo.
 
 <h5>🛠️ Tecnologías Utilizadas</h5>
-JavaScript
+<p>JavaScript
 HTML
-CSS (opcional para mejorar la apariencia)
+CSS (opcional para mejorar la apariencia)</p>
 
 <h6>📌 Mejoras Futuras</h6>
 Agregar estilos con CSS.
