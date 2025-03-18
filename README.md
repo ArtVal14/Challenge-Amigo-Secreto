@@ -1,13 +1,12 @@
-<h1> Mi nombre es Arturo y aquí está mi Proyecto del Amigo Secreto!!!!</h1>
+<h1> Hola!!!! Mi nombre es Arturo y aquí está el Proyecto del Amigo Secreto!!!!</h1>
 
-Este es un pequeño proyecto de programacion en JavaScript que permite al usuario agregar nombres de amigos a una lista y posteriormente realizar un sorteo para seleccionar un amigo de manera aleatoria.
-Con este proyecto se aplican conocimientos tales como: creación y uso de listas, selección aleatoria, recursividad de funciones, vinculación entre los archivos de JS y HTML, entre otros.
-🚀 *Este challenge forma parte del programa de formación **One Oracle**.*  
+Este es un pequeño proyecto de programacion en JavaScript que permite agregar nombres de amigos a una lista y posteriormente realizar un sorteo para seleccionar un amigo al azar.
+Con este proyecto se aplican conocimientos tales como: creación y uso de listas, selección aleatoria, recursividad de funciones, vinculación entre los archivos de JS y HTML, entre otros
 
 <h2>📌 Características </h2>
-✅ Agregar nombres a una lista.
-✅ Mostrar la lista de amigos agregados.
-✅ Seleccionar un amigo al azar mediante un sorteo.
+<p>Agregar nombres a una lista.
+Mostrar la lista de amigos agregados.
+Seleccionar un amigo al azar mediante un sorteo.</p>
 
 <h3>🚀 Instalación y Uso </h3>
 <p>Clona este repositorio o descarga los archivos.
@@ -23,9 +22,9 @@ mostrarAmigos(): Muestra la lista de amigos en pantalla.
 sortearAmigo(): Elige un amigo al azar de la lista y limpia la pantalla después del sorteo.
 
 <h5>🛠️ Tecnologías Utilizadas</h5>
-<p>JavaScript
+JavaScript
 HTML
-CSS (opcional para mejorar la apariencia)</p>
+CSS (opcional para mejorar la apariencia)
 
 <h6>📌 Mejoras Futuras</h6>
 Agregar estilos con CSS.
